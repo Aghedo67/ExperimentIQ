@@ -1,0 +1,4 @@
+metric,control,treatment,difference,95_ci,p_value,significant
+7-day retention,19.020%,18.200%,-0.820 pp,"[-1.328, -0.312]",0.0016,Yes
+1-day retention,44.819%,44.228%,-0.591 pp,"[-1.239, +0.058]",0.0744,No
+Game rounds (median),17,16,-1,n/a (Mann-Whitney),0.0502,No

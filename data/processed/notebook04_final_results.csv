@@ -1,0 +1,3 @@
+metric,version_ctrl,version_treat,n_ctrl,n_treat,p_ctrl,p_treat,diff_pp,ci_lo_pp,ci_hi_pp,p_value,significant,recommendation
+7-day retention,gate_30,gate_40,44700,45489,0.19020134228187918,0.18200004396667327,-0.8201298315205913,-1.328164577146224,-0.3120950858949586,0.0015542499756142636,True,DO NOT ROLL OUT — Keep gate at level 30
+1-day retention,gate_30,gate_40,44700,45489,0.4481879194630872,0.44228274967574577,-0.5905169787341458,-1.2392558656738064,0.058221908205514844,0.07440965529691912,False,DO NOT ROLL OUT — Keep gate at level 30
